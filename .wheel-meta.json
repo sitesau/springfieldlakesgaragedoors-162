@@ -1,0 +1,22 @@
+{
+  "wheel_id": 475,
+  "structure": "umbrella",
+  "slug": "springfieldlakesgaragedoors-162",
+  "project": "garage-door-repairs-springfield-lakes-checklist-e3ed990cf50eb9e",
+  "parent_t1_ref": "springfieldlakesgaragedoors-151",
+  "node_role": "buffer",
+  "money_target": "springfieldlakesgaragedoors.com.au",
+  "primary_kw": "garage door repairs springfield lakes checklist",
+  "intended_url": "https://sitesau.github.io/springfieldlakesgaragedoors-162/",
+  "tier": "T2",
+  "writeback_nonce": "21c13d2d1d46075b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/garage-door-repairs-springfield-lakes-151/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
